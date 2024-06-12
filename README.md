@@ -1,6 +1,4 @@
 
-ChatGPT
-Aquí tienes un README.md básico para el script de instalación del entorno:
 
 Instalador de Entorno para Arch Linux
 Este script automatiza la instalación de un entorno de usuario en Arch Linux. Proporciona una configuración básica y la instalación de paquetes comunes para personalizar tu experiencia de usuario.
@@ -28,4 +26,4 @@ Contribuciones
 Las contribuciones son bienvenidas. Si encuentras algún error o tienes sugerencias para mejorar este script, no dudes en abrir un problema o enviar una solicitud de extracción.
 
 Autor
-Este script fue creado po
+Este script fue creado por pp
