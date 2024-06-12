@@ -38,7 +38,7 @@ banner
 sleep 1
 echo -e "\n\n${blueColour}[*] Instalando paquetes necesarios para el entorno...\n${endColour}"
 sleep 2
-sudo pacman -Syu --noconfirm kitty rofi feh xclip ranger betterlockscreen playerctl scrot scrub wmname firejail imagemagick cmatrix htop neofetch python-pip procps-ng tty-clock fzf lsd bat pamixer flameshot
+sudo pacman -Syu --noconfirm kitty rofi feh xclip ranger betterlockscreen playerctl scrot scrub wmname firejail imagemagick cmatrix htop neofetch python-pip procps-ng  fzf lsd bat pamixer flameshot
 if [ $? != 0 ] && [ $? != 130 ]; then
 	echo -e "\n${redColour}[-] ¡Error al instalar algunos paquetes!\n${endColour}"
 	exit 1
